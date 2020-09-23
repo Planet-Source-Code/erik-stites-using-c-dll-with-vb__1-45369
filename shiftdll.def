@@ -1,0 +1,5 @@
+LIBRARY "shiftdll_Library"
+DESCRIPTION "Logical bit shift operation"
+
+EXPORTS
+	BitShift         @1
